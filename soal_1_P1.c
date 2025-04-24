@@ -1,3 +1,12 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+ *   Modul               : 1 - Overview of C
+ *   Hari dan Tanggal    : Rabu, 22 April 2025
+ *   Nama (NIM)          : Imam Ahmad Abdullah(13223050)
+ *   Nama File           : soal1.c
+ *   Deskripsi           : Membuat Program Untuk Memvalidasi Kode Spesial dengan 4 aturan Validasi
+ * 
+ */
+
 #include <stdio.h>
 #include <string.h>
 
