@@ -6,8 +6,6 @@
  *   Deskripsi           : Membaca file eksternal dan mengeluarkan output tiap baris beserta panjangnya
  * 
  */
-
-
 #include <stdio.h>
 #include <string.h>
 int main(){
