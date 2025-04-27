@@ -1,4 +1,3 @@
-
 /** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
  *   Modul               : 2 - Data Manipulation and External Files
  *   Hari dan Tanggal    : Senin, 28 April 2025
