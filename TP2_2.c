@@ -1,3 +1,13 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+ *   Modul               : 2 - Data Manipulation and External Files
+ *   Hari dan Tanggal    : Senin, 28 April 2025
+ *   Nama (NIM)          : Imam Ahmad Abdullah (13223050)
+ *   Nama File           : Tp2_Soal2.c
+ *   Deskripsi           : Membaca file eksternal dan mengeluarkan output tiap baris beserta panjangnya
+ * 
+ */
+
+
 #include <stdio.h>
 #include <string.h>
 int main(){
