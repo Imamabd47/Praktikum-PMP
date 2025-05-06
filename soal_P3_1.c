@@ -36,7 +36,7 @@ misteri *Kalender = NULL;
     int i = 0;
     int temp_val = 0;
     int temp_odd = 0;
-    int temp_even =0;
+    int temp_even = 0;
     int a;
     scanf("%d",&temp_val);
     nambah(temp_val,i,temp_odd,temp_even);
