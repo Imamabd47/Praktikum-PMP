@@ -1,3 +1,13 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+ *   Modul               : 4 - Dynamic Structures
+ *   Hari dan Tanggal    : , 6 Mei 2025
+ *   Nama (NIM)          : Imam Ahmad Abdullah (13223050)
+ *   Nama File           : soal2.c
+ *   Deskripsi           : Membuat program untuk menyimpan data prajurit, memperlihatkan seluruh data, serta menghapus data tertentu
+ * 
+ */
+
+
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
