@@ -30,7 +30,7 @@ void push(char Arr[20]){
     }
 }
 
-void pop(){
+void printList(){
     struct node *temp = head;
     printf("Reversed string: ");
     while(temp != NULL){
@@ -54,6 +54,6 @@ int main(){
     fgets(kata, 20,stdin);
     remove_n(kata);
     push(kata);
-    pop(kata);
+    printList(kata);
     return(0);
  }
